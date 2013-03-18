@@ -36,7 +36,7 @@
         <!-- Google Maps for Android API v2 key -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyAo7yJJSpMrQ0vx7k9U8qFTPREK1FTi9mw" />
+            android:value="AIzaSyDCidEYgzSoDIHt8Slz71uLDW9dt_MFCQg" />
         
         <activity
             android:name="hci2.group5.a2part2.MainActivity"
